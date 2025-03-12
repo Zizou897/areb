@@ -103,8 +103,9 @@ export const Contact = () => {
                 </div>
             </RevealOnScroll>
             <ToastContainer 
-            className="text-gray-300 font-semibold shadow-lg rounded-lg p-4"
-            theme="dark"/>
+                className="text-gray-300 font-semibold shadow-lg rounded-lg p-4"
+                theme="dark"
+            />
         </section>
     )
 }
