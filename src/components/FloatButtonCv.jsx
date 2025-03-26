@@ -4,7 +4,7 @@ import "react-tooltip/dist/react-tooltip.css";
 export const FloatButtonCv = () => {
 
     const handleCv = () => {
-        const CV_PDF = "/AZEEZ-CV.pdf";
+        const CV_PDF = "/areb-cv.pdf";
         window.open(CV_PDF, "_blank")
     }
 
